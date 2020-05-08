@@ -4,7 +4,6 @@ This is a test project
 
 # This is a simple README Text file.
 
-*First Name: ARiyou*
-**Last name: Jahan**
+*Name: Jimsa*
 
-***Project age: 2 hour ago***
+***Project's age: few hours ago***
